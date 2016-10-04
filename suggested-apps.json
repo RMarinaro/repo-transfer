@@ -10,11 +10,11 @@
 	}, {
 		"logo": "https://image.freepik.com/free-icon/apple-logo_318-40184.jpg",
 		"name": "Apple2",
-		"androidLink": "https://www.apple.com/android",
-		"macpcLink": "https://www.apple.com/mac",
-		"winpcLink": "https://www.apple.com/pc",
-		"iosLink": "https://www.apple.com/ios",
-		"defaultLink": "https://www.apple.com"
+		"androidLink": "https://www.apple.com/android2",
+		"macpcLink": "https://www.apple.com/mac2",
+		"winpcLink": "https://www.apple.com/pc2",
+		"iosLink": "https://www.apple.com/ios2",
+		"defaultLink": "https://www.apple.com/2"
 	}, {
 		"logo": "https://image.freepik.com/free-icon/apple-logo_318-40184.jpg",
 		"name": "error app should get removed",
@@ -25,10 +25,10 @@
 	}, {
 		"logo": "https://image.freepik.com/free-icon/apple-logo_318-40184.jpg",
 		"name": "Apple3",
-		"androidLink": "https://www.apple.com/android",
-		"macpcLink": "https://www.apple.com/mac",
-		"winpcLink": "https://www.apple.com/pc",
-		"iosLink": "https://www.apple.com/ios",
-		"defaultLink": "https://www.apple.com"
+		"androidLink": "https://www.apple.com/android3",
+		"macpcLink": "https://www.apple.com/mac3",
+		"winpcLink": "https://www.apple.com/pc3",
+		"iosLink": "https://www.apple.com/ios3",
+		"defaultLink": "https://www.apple.com/3"
 	}]
 }
