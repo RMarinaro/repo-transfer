@@ -1,20 +1,16 @@
 {
 	"suggestedApps": [{
 		"logo": "https://image.freepik.com/free-icon/apple-logo_318-40184.jpg",
-		"name": "Apple1",
+		"name": "Apple",
 		"androidLink": "https://www.apple.com/android",
 		"macpcLink": "https://www.apple.com/mac",
 		"winpcLink": "https://www.apple.com/pc",
 		"iosLink": "https://www.apple.com/ios",
 		"defaultLink": "https://www.apple.com"
 	}, {
-		"logo": "https://image.freepik.com/free-icon/apple-logo_318-40184.jpg",
-		"name": "Apple2",
-		"androidLink": "https://www.apple.com/android2",
-		"macpcLink": "https://www.apple.com/mac2",
-		"winpcLink": "https://www.apple.com/pc2",
-		"iosLink": "https://www.apple.com/ios2",
-		"defaultLink": "https://www.apple.com/2"
+		"logo": "http://agile.saucenet.io/images/agile_512.png",
+		"name": "Agile Tasks",
+		"defaultLink": "http://agile.saucenet.io/#/"
 	}, {
 		"logo": "https://image.freepik.com/free-icon/apple-logo_318-40184.jpg",
 		"name": "error app should get removed",
@@ -23,7 +19,7 @@
 		"winpcLink": "https://www.apple.com/pc",
 		"iosLink": "https://www.apple.com/ios"
 	}, {
-		"logo": "https://cfl.dropboxstatic.com/static/images/brand/glyph-vflK-Wlfk.png",
+		"logo": "https://image.freepik.com/free-icon/apple-logo_318-40184.jpg",
 		"name": "Dropbox",
 		"macpcLink": "https://www.dropbox.com/install",
 		"defaultLink": "https://www.dropbox.com/"
