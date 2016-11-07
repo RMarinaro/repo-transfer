@@ -24,6 +24,13 @@
 		"name": "Dropbox",
 		"macpcLink": "https://www.dropbox.com/install",
 		"defaultLink": "https://www.dropbox.com/"
-	}]
+	},
+	 {
+		"logo": "https://cfl.dropboxstatic.com/static/images/brand/glyph-vflK-Wlfk.png",
+		"name": "flickr",
+		"iosLink": "https://itunes.apple.com/us/app/flickr/id328407587",
+		"defaultLink": "https://www.flickr.com/"
+	}		 
+	]
 }
 
