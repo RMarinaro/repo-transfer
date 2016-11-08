@@ -11,6 +11,7 @@
 	}, {
 		"logo": "http://agile.saucenet.io/images/agile_512.png",
 		"name": "Agile Tasks",
+		"androidLink": "https://play.google.com/store/apps/details?id=com.sauce.agile&hl=en",		
 		"defaultLink": "http://agile.saucenet.io/#/"
 	}, {
 		"logo": "https://image.freepik.com/free-icon/apple-logo_318-40184.jpg",
