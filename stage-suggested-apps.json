@@ -3,14 +3,11 @@
 	"suggestedApps": [{
 		"logo": "https://image.freepik.com/free-icon/apple-logo_318-40184.jpg",
 		"name": "Apple",
-		"androidLink": "https://www.apple.com/android",
-		"macpcLink": "https://www.apple.com/mac",
-		"winpcLink": "https://www.apple.com/pc",
-		"iosLink": "https://www.apple.com/ios",
 		"defaultLink": "https://www.apple.com"
 	}, {
 		"logo": "http://agile.saucenet.io/images/agile_512.png",
 		"name": "Agile Tasks",
+		"androidLink": "https://play.google.com/store/apps/details?id=com.sauce.agile&hl=en",		
 		"defaultLink": "http://agile.saucenet.io/#/"
 	}, {
 		"logo": "https://image.freepik.com/free-icon/apple-logo_318-40184.jpg",
@@ -24,6 +21,22 @@
 		"name": "Dropbox",
 		"macpcLink": "https://www.dropbox.com/install",
 		"defaultLink": "https://www.dropbox.com/"
-	}]
+	},
+	 {
+		"logo": "https://cfl.dropboxstatic.com/static/images/brand/glyph-vflK-Wlfk.png",
+		"name": "flickr",
+		"iosLink": "https://itunes.apple.com/us/app/flickr/id328407587",
+		"defaultLink": "https://www.flickr.com/"
+	},	{
+		"logo": "http://agile.saucenet.io/images/agile_512.png",
+		"name": "Agile Tasks",
+		"defaultLink": "http://agile.saucenet.io/#/"
+	},
+	{
+		"logo": "http://agile.saucenet.io/images/agile_512.png",
+		"name": "Agile Tasks",
+		"defaultLink": "http://agile.saucenet.io/#/"
+	}
+	]
 }
 
