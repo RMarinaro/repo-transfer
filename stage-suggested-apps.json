@@ -1,6 +1,12 @@
 {
 	"enabled": true,
 	"suggestedApps": [{
+		"logo": "http://i.imgur.com/Vcc3ZNw.png",
+		"name": "Family Wall",
+		"androidLink": "https://play.google.com/store/apps/details?id=com.familywall",
+		"iosLink": "https://itunes.apple.com/us/app/familywall-private-family/id496889629?mt=8",
+		"defaultLink": "https://www.familywall.com/"
+	}, {
 		"logo": "http://i.imgur.com/TWy75sC.png",
 		"name": "RealTimes",
 		"androidLink": "https://play.google.com/store/apps/details?id=com.real.RealPlayerCloud&hl=en",
