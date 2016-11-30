@@ -2,8 +2,10 @@
 	"enabled": true,
 	"suggestedApps": [{
 		"logo": "http://i.imgur.com/TWy75sC.png",
-		"name": "iTunes",
-		"defaultLink": "https://www.apple.com"
+		"name": "RealTimes",
+		"androidLink": "https://play.google.com/store/apps/details?id=com.real.RealPlayerCloud&hl=en",
+		"iosLink": "https://itunes.apple.com/us/app/realtimes-video-maker/id666575946?mt=8",
+		"defaultLink": "https://realtimes.real.com/account#create"
 	}, {
 		"logo": "http://agile.saucenet.io/images/agile_96.png",
 		"name": "Agile Tasks",
