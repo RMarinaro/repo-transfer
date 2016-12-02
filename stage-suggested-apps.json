@@ -2,6 +2,10 @@
 	"enabled": true,
 	"suggestedApps": [{
 		"logo": "http://i.imgur.com/4FeqTYX.png",
+		"name": "Nixplay Photo Frames",
+		"defaultLink": "http://shop.nixplay.com/"
+	}, {
+		"logo": "http://i.imgur.com/4FeqTYX.png",
 		"name": "FreePrints",
 		"androidLink": "https://play.google.com/store/apps/details?id=com.photoaffections.freeprints",
 		"defaultLink": "https://www.photoaffections.com/freeprints"
