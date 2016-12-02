@@ -1,6 +1,12 @@
 {
 	"enabled": true,
 	"suggestedApps": [{
+		"logo": "http://i.imgur.com/z2kl6eM.png",
+		"name": "IFTTT",
+		"androidLink": "https://play.google.com/store/apps/details?id=com.ifttt.ifttt",
+		"iosLink": "https://itunes.apple.com/us/app/ifttt/id660944635?mt=8",
+		"defaultLink": "https://ifttt.com/verizon_cloud"
+	}, {
 		"logo": "http://i.imgur.com/mNJqx6A.png",
 		"name": "Lobster Photo Marketplace",
 		"defaultLink": "https://lobster.media/sell-content/"
