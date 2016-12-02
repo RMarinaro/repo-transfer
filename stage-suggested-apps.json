@@ -1,6 +1,10 @@
 {
 	"enabled": true,
 	"suggestedApps": [{
+		"logo": "http://i.imgur.com/mNJqx6A.png",
+		"name": "Lobster Content Marketplace",
+		"defaultLink": "https://lobster.media/sell-content/"
+	}, {
 		"logo": "http://i.imgur.com/Vcc3ZNw.png",
 		"name": "Family Wall",
 		"androidLink": "https://play.google.com/store/apps/details?id=com.familywall",
