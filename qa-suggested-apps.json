@@ -3,34 +3,40 @@
 	"suggestedApps": [{
 		"logo": "http://i.imgur.com/3hm7Bwz.jpg",
 		"name": "Nixplay Photo Frames",
-		"defaultLink": "http://shop.nixplay.com/"
+		"defaultLink": "http://shop.nixplay.com/",
+		"description": "Praesent nonummy, eros nec vestibulum maecenas morbi diam gravida, tempor pede pede. Urna fusce, est interdum sagittis, placerat ut amet interdum erat pretium condimentum"
 	}, {
 		"logo": "http://i.imgur.com/4FeqTYX.png",
 		"name": "FreePrints",
 		"androidLink": "https://play.google.com/store/apps/details?id=com.photoaffections.freeprints",
-		"defaultLink": "https://www.photoaffections.com/freeprints"
+		"defaultLink": "https://www.photoaffections.com/freeprints",
+		"description": "Praesent nonummy, eros nec vestibulum maecenas morbi diam gravida, tempor pede pede. Urna fusce, est interdum sagittis, placerat ut amet interdum erat pretium condimentum"
 	}, {
 		"logo": "http://i.imgur.com/mNJqx6A.png",
 		"name": "Lobster Photo Marketplace",
-		"defaultLink": "https://lobster.media/sell-content/"
+		"defaultLink": "https://lobster.media/sell-content/",
+		"description": "Praesent nonummy, eros nec vestibulum maecenas morbi diam gravida, tempor pede pede. Urna fusce, est interdum sagittis, placerat ut amet interdum erat pretium condimentum"
 	}, {
 		"logo": "http://i.imgur.com/z2kl6eM.png",
 		"name": "IFTTT",
 		"androidLink": "https://play.google.com/store/apps/details?id=com.ifttt.ifttt",
 		"iosLink": "https://itunes.apple.com/us/app/ifttt/id660944635?mt=8",
-		"defaultLink": "https://ifttt.com/verizon_cloud"
+		"defaultLink": "https://ifttt.com/verizon_cloud",		
+		"description": "Praesent nonummy, eros nec vestibulum maecenas morbi diam gravida, tempor pede pede. Urna fusce, est interdum sagittis, placerat ut amet interdum erat pretium condimentum"
 	}, {
 		"logo": "http://i.imgur.com/Vcc3ZNw.png",
 		"name": "Family Wall",
 		"androidLink": "https://play.google.com/store/apps/details?id=com.familywall",
 		"iosLink": "https://itunes.apple.com/us/app/familywall-private-family/id496889629?mt=8",
-		"defaultLink": "https://www.familywall.com/"
+		"defaultLink": "https://www.familywall.com/",
+		"description": "Praesent nonummy, eros nec vestibulum maecenas morbi diam gravida, tempor pede pede. Urna fusce, est interdum sagittis, placerat ut amet interdum erat pretium condimentum"
 	}, {
 		"logo": "http://i.imgur.com/TWy75sC.png",
 		"name": "RealTimes",
 		"androidLink": "https://play.google.com/store/apps/details?id=com.real.RealPlayerCloud&hl=en",
 		"iosLink": "https://itunes.apple.com/us/app/realtimes-video-maker/id666575946?mt=8",
-		"defaultLink": "https://realtimes.real.com/account#create"
+		"defaultLink": "https://realtimes.real.com/account#create",
+		"description": "Praesent nonummy, eros nec vestibulum maecenas morbi diam gravida, tempor pede pede. Urna fusce, est interdum sagittis, placerat ut amet interdum erat pretium condimentum"
 	}, {
 		
 	}
