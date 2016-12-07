@@ -1,29 +1,38 @@
 {
 	"enabled": true,
 	"suggestedApps": [{
-		"logo": "https://image.freepik.com/free-icon/apple-logo_318-40184.jpg",
-		"name": "Apple",
-		"androidLink": "https://www.apple.com/android",
-		"macpcLink": "https://www.apple.com/mac",
-		"winpcLink": "https://www.apple.com/pc",
-		"iosLink": "https://www.apple.com/ios",
-		"defaultLink": "https://www.apple.com"
+		"logo": "http://i.imgur.com/3hm7Bwz.jpg",
+		"name": "Nixplay Photo Frames",
+		"defaultLink": "http://shop.nixplay.com/"
 	}, {
-		"logo": "http://agile.saucenet.io/images/agile_512.png",
-		"name": "Agile Tasks",
-		"defaultLink": "http://agile.saucenet.io/#/"
+		"logo": "http://i.imgur.com/4FeqTYX.png",
+		"name": "FreePrints",
+		"androidLink": "https://play.google.com/store/apps/details?id=com.photoaffections.freeprints",
+		"defaultLink": "https://www.photoaffections.com/freeprints"
 	}, {
-		"logo": "https://image.freepik.com/free-icon/apple-logo_318-40184.jpg",
-		"name": "error app should get removed",
-		"androidLink": "https://www.apple.com/android",
-		"macpcLink": "https://www.apple.com/mac",
-		"winpcLink": "https://www.apple.com/pc",
-		"iosLink": "https://www.apple.com/ios"
+		"logo": "http://i.imgur.com/mNJqx6A.png",
+		"name": "Lobster Photo Marketplace",
+		"defaultLink": "https://lobster.media/sell-content/"
 	}, {
-		"logo": "https://cfl.dropboxstatic.com/static/images/brand/glyph-vflK-Wlfk.png",
-		"name": "Dropbox new name fsdfsdf",
-		"macpcLink": "https://www.dropbox.com/install",
-		"defaultLink": "https://www.dropbox.com/"
-	}]
+		"logo": "http://i.imgur.com/z2kl6eM.png",
+		"name": "IFTTT",
+		"androidLink": "https://play.google.com/store/apps/details?id=com.ifttt.ifttt",
+		"iosLink": "https://itunes.apple.com/us/app/ifttt/id660944635?mt=8",
+		"defaultLink": "https://ifttt.com/verizon_cloud"
+	}, {
+		"logo": "http://i.imgur.com/Vcc3ZNw.png",
+		"name": "Family Wall",
+		"androidLink": "https://play.google.com/store/apps/details?id=com.familywall",
+		"iosLink": "https://itunes.apple.com/us/app/familywall-private-family/id496889629?mt=8",
+		"defaultLink": "https://www.familywall.com/"
+	}, {
+		"logo": "http://i.imgur.com/TWy75sC.png",
+		"name": "RealTimes",
+		"androidLink": "https://play.google.com/store/apps/details?id=com.real.RealPlayerCloud&hl=en",
+		"iosLink": "https://itunes.apple.com/us/app/realtimes-video-maker/id666575946?mt=8",
+		"defaultLink": "https://realtimes.real.com/account#create"
+	}, {
+		
+	}
+	]
 }
-
