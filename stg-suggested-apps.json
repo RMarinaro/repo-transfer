@@ -1,29 +1,38 @@
+
 {
 	"enabled": true,
 	"suggestedApps": [{
-		"logo": "https://image.freepik.com/free-icon/apple-logo_318-40184.jpg",
-		"name": "Apple",
-		"androidLink": "https://www.apple.com/android",
-		"macpcLink": "https://www.apple.com/mac",
-		"winpcLink": "https://www.apple.com/pc",
-		"iosLink": "https://www.apple.com/ios",
-		"defaultLink": "https://www.apple.com"
+		"logo": "https://i.imgur.com/3hm7Bwz.jpg",
+		"name": "Nixplay Frames",
+		"defaultLink": "http://shop.nixplay.com/",
+		"description": "Digital picture frames to display your favorite memories in stunning clarity"
 	}, {
-		"logo": "http://agile.saucenet.io/images/agile_512.png",
-		"name": "Agile Tasks",
-		"defaultLink": "http://agile.saucenet.io/#/"
+		"logo": "https://i.imgur.com/4FeqTYX.png",
+		"name": "FreePrints",
+		"androidLink": "https://play.google.com/store/apps/details?id=com.photoaffections.freeprints",
+		"defaultLink": "https://www.photoaffections.com/freeprints",
+		"description": "Bring your photos to life and receive up to 1000 free prints per year"
 	}, {
-		"logo": "https://image.freepik.com/free-icon/apple-logo_318-40184.jpg",
-		"name": "error app should get removed",
-		"androidLink": "https://www.apple.com/android",
-		"macpcLink": "https://www.apple.com/mac",
-		"winpcLink": "https://www.apple.com/pc",
-		"iosLink": "https://www.apple.com/ios"
+		"logo": "https://i.imgur.com/mNJqx6A.png",
+		"name": "Lobster Photo Marketplace",
+		"defaultLink": "https://lobster.media/sell-content/",
+		"description": "Earn rewards by sharing your favorite photos stored in the cloud"
 	}, {
-		"logo": "https://cfl.dropboxstatic.com/static/images/brand/glyph-vflK-Wlfk.png",
-		"name": "Dropbox new name fsdfsdf",
-		"macpcLink": "https://www.dropbox.com/install",
-		"defaultLink": "https://www.dropbox.com/"
-	}]
+		"logo": "https://i.imgur.com/z2kl6eM.png",
+		"name": "IFTTT",
+		"androidLink": "https://play.google.com/store/apps/details?id=com.ifttt.ifttt",
+		"iosLink": "https://itunes.apple.com/us/app/ifttt/id660944635?mt=8",
+		"defaultLink": "https://ifttt.com/verizon_cloud",		
+		"description": "Get the most out of the cloud by connecting it with your favorite apps and services"
+	}, {
+		"logo": "https://i.imgur.com/Vcc3ZNw.png",
+		"name": "Family Wall",
+		"androidLink": "https://play.google.com/store/apps/details?id=com.familywall",
+		"iosLink": "https://itunes.apple.com/us/app/familywall-private-family/id496889629?mt=8",
+		"defaultLink": "https://www.familywall.com/",
+		"description": "A social network for families to share, communicate and stay connected - securely"
+	}, {
+		
+	}
+	]
 }
-
